@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Dhruvil Patel
 
-<!--
-**pateldhruvil18/pateldhruvil18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🚀 Building Web & AI Projects  
+📍 Gujarat, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning MERN Stack
+- 💡 Interested in AI & Web Development
+- 🛠 Building real world projects
+
+---
+
+## 🛠 Tech Stack
+- React.js
+- Node.js
+- Next.js
+- Express.js
+- MongoDB
+- JavaScript
+  
+---
+
+## 📌 My Projects
+🔹 Remote Team Productivity Time Tracker
+🔹 Blood Bank Mangement System
+🔹 MindNest AI Project  
+🔹 E-Commerce Website 
+🔹 Todo App- Full Stack
+
+---
